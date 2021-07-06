@@ -1,0 +1,29 @@
+body {
+    margin: 10;
+    padding: 5;
+}
+
+.container{
+    text-align: center;
+    
+    margin-top: 0;
+}
+
+.btn1, .btn2, .btn3{
+    border: 1px;
+    color: greenyellow;
+
+    background:none;
+    padding:10px 20px;
+    font: size 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+
+}
+
+.myDiv{
+
+    border:5px outset green;
+    background-color: white;
+}
